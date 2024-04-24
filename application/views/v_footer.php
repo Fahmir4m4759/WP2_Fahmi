@@ -1,5 +1,5 @@
 <footer>
-    <a href="http://www.RentalBuku.com">RentalBukuHerman</a>
+    <a href="http://www.RentalBuku.com">RentalBukuFahmi</a>
 </footer>
 </div>
 </body>
