@@ -17,7 +17,7 @@
     </ul>
     <h4>Olah Raga Favorit</h4>
     <ul type="square">
-        <li>Bulutangkis</li>
+        <li>E-Sport</li>
         <li>Catur</li>
     </ul>
 </section>
